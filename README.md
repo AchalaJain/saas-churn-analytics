@@ -1,2 +1,2 @@
-# saas-churn-analytics
-End-to-end churn analysis — SQL · Python · Power BI | Telco dataset
+# retention-revenue-intelligence
+Churn prediction & CLV scoring system — SQL · Python · Power BI | Retention strategy for a SaaS business
